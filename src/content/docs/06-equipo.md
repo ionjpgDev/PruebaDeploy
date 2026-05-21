@@ -7,12 +7,12 @@ description: Integrantes del proyecto de análisis y diseño, sus roles y respon
 
 | Estudiante | C.I. | ROL |
 | :--- | :--- | :--- |
-| Choque Yujra Joel | 14480985 | Analista / Documentación |
-| Colque Huchani Yesica Laura | 12768305 | Modelado Orientado a Objetos |
-| Plata Cruz Jhonatan | 13373275 | Levantamiento de Requerimientos |
-| Quiquijana Calle Joshua Juan | 10409325 | Modelado Estructurado (DFD) |
-| Ramos Colque Evelyn Gisela | 14004805 | Integración SIAT y Calidad |
-| Sanchez Cuentas Daniel Andres | 10016584 | Coordinación y BPMN |
+| Choque Yujra Joel | 14480985 | 
+| Colque Huchani Yesica Laura | 12768305 |
+| Plata Cruz Jhonatan | 13373275 | 
+| Quiquijana Calle Joshua Juan | 10409325 | 
+| Ramos Colque Evelyn Gisela | 14004805  |
+| Sanchez Cuentas Daniel Andres | 10016584 |
 
 ## Docente
 

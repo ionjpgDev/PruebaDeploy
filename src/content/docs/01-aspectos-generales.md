@@ -5,7 +5,7 @@ description: Antecedentes, diagnóstico, identificación del problema, objetivos
 
 ## 1.1. Antecedentes
 
-La empresa **Transportadora Colque Machicado SRL**, ubicada en la zona Rosas Pampa, Calle 25 N.º 10, desarrolla actividades relacionadas con el servicio de **transporte de carga nacional e internacional**, además de la importación y comercialización de diversos productos, entre ellos:
+La empresa **Transportadora Colque Machicado SRL**, ubicada en la zona Rosas Pampa, Calle 25 N.º 10, desarrolla actividades relacionadas con el servicio de **transporte de carga nacional** de diversos productos, entre ellos:
 
 - Repuestos automotores
 - Vehículos livianos y camiones
