@@ -3,8 +3,6 @@ title: 5. Bibliografía y Fuentes de Información
 description: Fuentes de información y referencias bibliográficas consultadas para el proyecto.
 ---
 
-# 5. Bibliografía y Fuentes de Información
-
 ## Referencias bibliográficas
 
 1. **Aplicación de la logística de transporte en la Empresa de Transporte Pesado Tempest Truck**  

@@ -3,8 +3,6 @@ title: 2. Marco Metodológico
 description: Enfoque, tipo de investigación, métodos, técnicas de recolección y población de estudio.
 ---
 
-# 2. Marco Metodológico
-
 ## 2.1. Enfoque de la investigación
 
 La investigación presenta un enfoque **cualitativo**, debido a que permite analizar y comprender las características, necesidades y funcionamiento de los procesos desarrollados dentro de la empresa, mediante la recopilación y análisis de información obtenida directamente del entorno de estudio.

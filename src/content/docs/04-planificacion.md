@@ -3,8 +3,6 @@ title: 4. Planificación de Actividades
 description: Cronograma y planificación del proyecto de análisis y diseño (2 meses).
 ---
 
-# 4. Planificación de Actividades
-
 ## Cronograma general
 
 La investigación será desarrollada en un periodo aproximado de **dos meses**, comprendiendo las siguientes actividades:

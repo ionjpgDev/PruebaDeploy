@@ -3,8 +3,6 @@ title: 1. Aspectos Generales
 description: Antecedentes, diagnóstico, identificación del problema, objetivos, justificación y alcance del proyecto.
 ---
 
-# 1. Aspectos Generales
-
 ## 1.1. Antecedentes
 
 La empresa **Transportadora Colque Machicado SRL**, ubicada en la zona Rosas Pampa, Calle 25 N.º 10, desarrolla actividades relacionadas con el servicio de **transporte de carga nacional e internacional**, además de la importación y comercialización de diversos productos, entre ellos:

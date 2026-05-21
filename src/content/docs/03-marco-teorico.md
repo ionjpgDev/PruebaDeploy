@@ -3,8 +3,6 @@ title: 3. Marco Teórico
 description: Conceptos clave sobre sistemas de información, guías de carga, facturación, SIAT, logística y paradigmas de análisis.
 ---
 
-# 3. Marco Teórico
-
 ## 3.1. Marco Histórico
 
 La evolución de los sistemas de información ha permitido que las empresas mejoren el control y administración de sus procesos internos mediante el uso de herramientas tecnológicas. Inicialmente, las actividades se realizaban mediante documentos físicos; posteriormente, comenzaron a incorporarse hojas de cálculo, bases de datos y sistemas especializados.

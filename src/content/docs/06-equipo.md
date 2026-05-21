@@ -3,8 +3,6 @@ title: 6. Equipo de Trabajo
 description: Integrantes del proyecto de análisis y diseño, sus roles y responsabilidades.
 ---
 
-# 6. Equipo de Trabajo
-
 ## Estudiantes
 
 | Estudiante | C.I. | ROL |
